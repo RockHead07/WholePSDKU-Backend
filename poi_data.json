@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mmb_studio",
+    "nama": "MMB Studio",
+    "alias": ["mmb", "studio mmb", "ruang mmb"],
+    "posisi": { "x": -14.736, "y": -0.128, "z": -2.557 }
+  },
+  {
+    "id": "lab_teori_202",
+    "nama": "Lab Teori 202",
+    "alias": ["lab 202", "laboratorium teori 202"],
+    "posisi": { "x": -6.237, "y": -0.128, "z": -2.201 }
+  },
+  {
+    "id": "lab_teori_203",
+    "nama": "Lab Teori 203",
+    "alias": ["lab 203", "laboratorium teori 203"],
+    "posisi": { "x": -13.537, "y": -0.128, "z": -2.49 }
+  },
+  {
+    "id": "lab_teori_201",
+    "nama": "Lab Teori 201",
+    "alias": ["lab 201", "laboratorium teori 201"],
+    "posisi": { "x": -1.446, "y": -0.128, "z": -5.573 }
+  },
+  {
+    "id": "lab_mikrotik",
+    "nama": "Lab Mikrotik",
+    "alias": ["mikrotik", "lab mikro"],
+    "posisi": { "x": -10.596, "y": -0.128, "z": -5.961 }
+  },
+  {
+    "id": "perpustakaan",
+    "nama": "Perpustakaan",
+    "alias": ["perpus", "library"],
+    "posisi": { "x": -13.14, "y": -3.839, "z": 1.659 }
+  },
+  {
+    "id": "mushola",
+    "nama": "Mushola",
+    "alias": ["musholla", "masjid", "tempat sholat"],
+    "posisi": { "x": -19.087, "y": -0.128, "z": -6.351 }
+  },
+  {
+    "id": "baak",
+    "nama": "BAAK",
+    "alias": ["administrasi", "akademik"],
+    "posisi": { "x": -7.168, "y": -3.839, "z": 1.977 }
+  }
+]
